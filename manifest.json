@@ -1,0 +1,10 @@
+{
+  "name": "Repeat Grids!",
+  "id": "1149379408940473622",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "editorType": [
+    "figma"
+  ],
+  "ui": "dist/index.html"
+}
